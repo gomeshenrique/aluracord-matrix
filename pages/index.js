@@ -49,22 +49,8 @@ function Titulo(props) {
   );
 }
 
-// Componente React
-// function HomePage() {
-//   // JSX
-//   return (
-//     <div>
-//       <GlobalStyle />
-//       <Titulo tag="h2">Boas vindas de volta!</Titulo>
-//       <h2>Discord - Alura Matrix</h2>
-//     </div>
-//   );
-// }
-
-// export default HomePage;
-
 export default function PaginaInicial() {
-  const username = "peas";
+  const username = "gomeshenrique";
 
   return (
     <>
