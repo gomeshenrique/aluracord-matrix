@@ -1,5 +1,6 @@
 {
-  "name": "Aluracord - Matrix (gomeshenrique)",
+  "name": "Aluracord - Matrix",
+  "isDisable": false,
   "theme": {
     "colors": {
       "primary": {
